@@ -1,0 +1,43 @@
+{
+  "name": "MasterMind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "browserify": "^6.2.0",
+    "es6ify": "^1.5.1",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-changed": "^1.1.0",
+    "gulp-concat": "^2.4.1",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-extract-sourcemap": "^0.1.1",
+    "gulp-filter": "^1.0.2",
+    "gulp-ftp": "^1.0.1",
+    "gulp-if": "^1.2.5",
+    "gulp-jasmine2-phantomjs": "^0.1.1",
+    "gulp-less": "^1.3.6",
+    "gulp-livereload": "^2.1.1",
+    "gulp-notify": "^2.0.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sftp": "^0.1.3",
+    "gulp-shell": "^0.2.10",
+    "gulp-sourcemaps": "^1.2.8",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^1.0.1",
+    "gulp-util": "^3.0.1",
+    "reactify": "^0.15.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "promise": "^6.0.1",
+    "react": "^0.12.2"
+},
+  "author": "",
+  "license": "ISC"
+}
