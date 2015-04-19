@@ -27,7 +27,7 @@ var rename       = require('gulp-rename');
 var libs = [
 	"react",
 	//"react-router",
-	"promise"
+	//"promise"
 	//"jsonld",
 ];
 
